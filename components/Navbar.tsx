@@ -1,5 +1,5 @@
-import { Link } from 'lucide-react'
 import React from 'react'
+import Link from 'next/link'
 import Image from 'next/image'
 import Navitems from './Navitems'
 
